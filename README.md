@@ -28,4 +28,5 @@ terraform destroy
 2. `latest` (String, Deprecated) The ID of the image in the form of `sha256:<hash>` image digest. Do not confuse it with the default latest tag. [Link](https://registry.terraform.io/providers/kreuzwerker/docker/latest/docs/resources/image)
 
 ## Reference:
-[Docker provider](https://registry.terraform.io/providers/kreuzwerker/docker/latest/docs)
+1. [Docker provider](https://registry.terraform.io/providers/kreuzwerker/docker/latest/docs)
+2. [Should .terraform.lock.hcl be included in the .gitignore file?](https://stackoverflow.com/questions/67963719/should-terraform-lock-hcl-be-included-in-the-gitignore-file)
